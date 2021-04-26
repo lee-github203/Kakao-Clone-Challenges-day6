@@ -1,0 +1,33 @@
+body {
+  background-color: tomato;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.asd {
+  background-color: #008080;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  margin: 10px;
+}
+
+.plus-un {
+  background-color: #f5deb3;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.plus-trois {
+  background-color: #008080;
+  height: 50px;
+  width: 150px;
+  border: dotted white;
+}
